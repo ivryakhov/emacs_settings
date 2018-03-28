@@ -43,3 +43,6 @@
 (global-ede-mode 1)
 ; turn on automatic raprsing of open buffers in semantic
 (global-semantic-idle-scheduler-mode 1)
+
+(setq-default indent-tabs-mode nil)
+(setq default-tab-width 4)

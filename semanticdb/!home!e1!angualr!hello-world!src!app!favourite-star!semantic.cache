@@ -1,0 +1,16 @@
+;; Object favourite-star/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "favourite-star/"
+  :tables
+  (list
+    (semanticdb-table "favourite-star.component.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "favourite-star.component.html"
+      :pointmax 34
+      :fsize 33
+      :lastmodtime '(22870 8273 891723 723000)
+      :unmatched-syntax nil))
+  :file "!home!e1!angualr!hello-world!src!app!favourite-star!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

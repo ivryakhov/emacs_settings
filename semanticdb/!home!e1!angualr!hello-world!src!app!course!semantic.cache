@@ -1,0 +1,16 @@
+;; Object course/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "course/"
+  :tables
+  (list
+    (semanticdb-table "course.component.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "course.component.html"
+      :pointmax 26
+      :fsize 25
+      :lastmodtime '(22865 728 531951 595000)
+      :unmatched-syntax nil))
+  :file "!home!e1!angualr!hello-world!src!app!course!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

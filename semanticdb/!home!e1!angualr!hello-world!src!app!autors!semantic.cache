@@ -1,0 +1,17 @@
+;; Object autors/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "autors/"
+  :tables
+  (list
+    (semanticdb-table "autors.component.html"
+      :major-mode 'html-mode
+      :tags 
+        '( ("{{ title }}" section nil nil [1 94]))          
+      :file "autors.component.html"
+      :pointmax 94
+      :fsize 93
+      :lastmodtime '(22866 19683 443939 223000)
+      :unmatched-syntax nil))
+  :file "!home!e1!angualr!hello-world!src!app!autors!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

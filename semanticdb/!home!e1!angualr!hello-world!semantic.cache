@@ -1,0 +1,16 @@
+;; Object hello-world/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "hello-world/"
+  :tables
+  (list
+    (semanticdb-table "package.json"
+      :major-mode 'js-mode
+      :tags nil
+      :file "package.json"
+      :pointmax 1307
+      :fsize 1306
+      :lastmodtime '(22867 32969 902614 12000)
+      :unmatched-syntax nil))
+  :file "!home!e1!angualr!hello-world!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

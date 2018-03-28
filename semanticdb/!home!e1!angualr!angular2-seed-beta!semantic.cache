@@ -1,0 +1,24 @@
+;; Object angular2-seed-beta/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "angular2-seed-beta/"
+  :tables
+  (list
+    (semanticdb-table "tsconfig.json"
+      :major-mode 'js-mode
+      :tags nil
+      :file "tsconfig.json"
+      :pointmax 342
+      :fsize 341
+      :lastmodtime '(22223 40485 0 0)
+      :unmatched-syntax nil)
+    (semanticdb-table "package.json"
+      :major-mode 'js-mode
+      :tags nil
+      :file "package.json"
+      :pointmax 659
+      :fsize 658
+      :lastmodtime '(22256 47899 0 0)
+      :unmatched-syntax nil))
+  :file "!home!e1!angualr!angular2-seed-beta!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

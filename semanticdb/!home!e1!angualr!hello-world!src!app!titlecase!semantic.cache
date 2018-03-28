@@ -1,0 +1,16 @@
+;; Object titlecase/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "titlecase/"
+  :tables
+  (list
+    (semanticdb-table "titlecase.component.html"
+      :major-mode 'html-mode
+      :tags nil
+      :file "titlecase.component.html"
+      :pointmax 71
+      :fsize 70
+      :lastmodtime '(22874 19785 119122 865000)
+      :unmatched-syntax nil))
+  :file "!home!e1!angualr!hello-world!src!app!titlecase!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")

@@ -1,0 +1,19 @@
+;; Object ts-hello/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "ts-hello/"
+  :tables
+  (list
+    (semanticdb-table "main.js"
+      :major-mode 'js-mode
+      :tags 
+        '( ("log" function (:arguments 
+              ( ("mesasge" variable nil (reparse-symbol FormalParameterList) [14 21]))              ) nil [1 52])
+            ("message" variable (:default-value "'Hello World'") nil [53 81]))          
+      :file "main.js"
+      :pointmax 96
+      :fsize 95
+      :lastmodtime '(22860 58500 327947 261000)
+      :unmatched-syntax '((VARIABLE 82 . 85) (PAREN_BLOCK 85 . 94))))
+  :file "!home!e1!angualr!ts-hello!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2")
